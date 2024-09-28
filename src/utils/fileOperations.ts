@@ -1,7 +1,7 @@
 import fs from 'fs/promises';
 import { RoomServiceRequest } from '../types/roomServiceType';
 
-const FILE_PATH = '../requests.json';
+const FILE_PATH = './requests.json';
 
 // Load requests from JSON file
 export const loadRequests = async (): Promise<RoomServiceRequest[]> => {

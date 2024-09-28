@@ -1,0 +1,18 @@
+[
+  {
+    "id": "68347444-94e8-4717-85cd-8f965b575698",
+    "guestName": "Harsh Trivedi",
+    "roomNumber": 105,
+    "requestDetails": "Need more ice",
+    "priority": 2,
+    "status": "completed"
+  },
+  {
+    "id": "43ae25a5-5164-4a0a-a66e-d9e8a3f915be",
+    "guestName": "Hind Kumar",
+    "roomNumber": 106,
+    "requestDetails": "Need more towels",
+    "priority": 3,
+    "status": "received"
+  }
+]
