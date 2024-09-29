@@ -267,5 +267,5 @@ Marks a specific room service request as `completed`.
   "status": "completed"
 }
 ```
-
+Query screenshots are added to directory called outputs.
 ---
